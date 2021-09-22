@@ -1,0 +1,12 @@
+Model dimension, no. of trajectories, no. of lines in a trajectory
+3 48 100000
+No. of time-steps for MSD calculations, no. of time-steps for metric parameters
+1000 100
+No. of lines to be skipped for \Delta{t}=1.0
+12
+Time-interval at which trajectory was recorded
+0.05
+Quiescent (0) or flow(1) condition
+1
+Flow orientation
+45.0

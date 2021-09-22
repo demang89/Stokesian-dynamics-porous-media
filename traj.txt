@@ -1,0 +1,8 @@
+Define fluid velocity magnitude and direction angle in degree
+10.0 45.0
+Define number of integration timesteps, traj record timesteps, and timestep value
+1d9 1000 5d-5
+Long-range HI to be included
+.TRUE.
+Short-range HI to be included
+.TRUE.
